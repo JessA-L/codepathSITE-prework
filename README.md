@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Jessica Allman-LaPorte
+Submitted by: **Jessica Allman-LaPorte**
 
 Time spent: **#** hours spent in total
 
@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright Jessica Allman-LaPorte
+    Copyright [Jessica Allman-LaPorte]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
