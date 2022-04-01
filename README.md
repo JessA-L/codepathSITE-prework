@@ -49,7 +49,7 @@ The following **optional** features are implemented:
 
 ## Reflection Questions
 
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.<br> 
 MDN. “Array.prototype.length” 	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
 Stackoverflow. “How to append something to an array?” https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
 
