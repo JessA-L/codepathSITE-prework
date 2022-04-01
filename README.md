@@ -39,14 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 
-* GIF of user winning: 
+* GIF of User winning the game after guessing a complete pattern: 
 <br><img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
 
-* GIF of user clicking start button and then stop button, which both disappear; <br>
-    Then, user clicks start button again and loses: 
+* GIF of "Start" button toggling between "Start" and "Stop" when clicked.; <br>
+    Then, User loses the game after an incorrect guess: 
     <br><img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
 
-![](gif2-link-here)
+![GIF of "Start" button toggling between "Start" and "Stop" when clicked.](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
