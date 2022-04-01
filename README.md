@@ -4,9 +4,11 @@
 
 Submitted by: **Jessica Allman-LaPorte**
 
-Time spent: **#** hours spent in total
+Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project code: (https://glitch.com/edit/#!/codepath-pre-work-simone)
+Link to live project: https://codepath-pre-work-simone.glitch.me
+
 
 ## Required Functionality
 
@@ -22,22 +24,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [X] Playback speeds up on each turn
+* [X] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
 
 * GIF of User winning the game after guessing a complete pattern: 
 <br><img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
@@ -46,11 +45,10 @@ The following **additional** features are implemented:
     Then, User loses the game after an incorrect guess: 
     <br><img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
 
-![GIF of "Start" button toggling between "Start" and "Stop" when clicked.](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
 
 ## Reflection Questions
+
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
 
