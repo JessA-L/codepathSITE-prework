@@ -40,11 +40,11 @@ The following **additional** features are implemented:
 
 
 * GIF of user winning: 
-<img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
+<br><img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
 
 * GIF of user clicking start button and then stop, which both disappear; 
     User clicks start button again and then loses: 
-    <img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
+    <br><img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
 
 ![](gif2-link-here)
 ![](gif3-link-here)
