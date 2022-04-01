@@ -51,9 +51,9 @@ The following **optional** features are implemented:
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-    <ul>MDN. “Array.prototype.length” <br>
+    MDN. “Array.prototype.length” <br>
         https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length 
-    <ul>Stackoverflow. “How to append something to an array?” 
+    Stackoverflow. “How to append something to an array?” <br>
         https://stackoverflow.com/questions/351409/how-to-append-something-to-an-array
 
 
