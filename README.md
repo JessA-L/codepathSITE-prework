@@ -69,14 +69,20 @@ The following **optional** features are implemented:
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
     - Why is there sometimes a delay when the sequence plays? Is this a problem with glitch? How is this issue eliminated?
 	- How closely related is Javascript to C?
-	* How does Javascript interact with the html and what instructions does it need in order to do so?
-	* How are other languages used in web development? For example, I know that Python is sometimes used, but how does it interact with the other languages and when would it be preferable to do so?
-How do API’s work and how are they used?
-How can a game like this be made more accessible? What are the best practices?
+	- How does Javascript interact with the html and what instructions does it need in order to do so?
+	- How are other languages used in web development? For example, I know that Python is sometimes used, but how does it interact with the other languages and when would it be preferable to do so?
+    - How do API’s work and how are they used?
+    - How can a game like this be made more accessible? What are the best practices?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+    <ul>	If I had more time to devote to this project, I would make it so that you can’t click any button before the start button. Currently, the user can press buttons 1-4 and the tones will play prior to starting the game. I would also eliminate the user’s ability to make their guesses before the sequence has finished playing. <br>
+
+	I wasted a lot of time trying to figure out the amount that I should decrease the clueHoldTime cluePauseTime variables in order to speed up the clue sequence each turn. In hindsight, I should have taken the time to find a way to play only the last clue sequence with 8 tones. This would have saved a lot of time and frustration and would save time if I wanted to add additional features. <br>
+
+	If I had a few more hours, I would make a little song play when the start button is clicked, before the first sequence is played. I would also try to make this project more accessible in order to maximize the amount of users who could play and find enjoyment from it. 
+    </ul>
 
 
 
