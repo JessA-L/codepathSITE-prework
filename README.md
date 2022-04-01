@@ -39,12 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![],<img src=https://recordit.co/KoEKV183VC.gif width=250><br>
-![],<img src=https://recordit.co/VufVwRkJpn.gif width=250><br>
-![],<img src="https://recordit.co/VufVwRkJpn.gif" width=250><br>
-![],<img src=https://recordit.co/4eV7XL4A1H.gif width=250><br>
-![],<img src="https://recordit.co/4eV7XL4A1H.gif" width=250><br>
-https://recordit.co/4eV7XL4A1H
+
+* GIF of user winning: <img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
+
+* GIF of user clicking start button and then stop, which both disappear; 
+    User clicks start button again and then loses: <img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
 
 ![](gif2-link-here)
 ![](gif3-link-here)
