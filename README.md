@@ -42,8 +42,8 @@ The following **additional** features are implemented:
 * GIF of user winning: 
 <br><img src=https://recordit.co/SpQxFpdpb1.gif width=250><br>
 
-* GIF of user clicking start button and then stop, which both disappear; 
-    User clicks start button again and then loses: 
+* GIF of user clicking start button and then stop button, which both disappear; <br>
+    Then, user clicks start button again and loses: 
     <br><img src=https://recordit.co/uVFhAFh0ft.gif width=250><br>
 
 ![](gif2-link-here)
