@@ -6,7 +6,7 @@ Submitted by: **Jessica Allman-LaPorte**
 
 Time spent: **5** hours spent in total
 
-Link to project code: (https://glitch.com/edit/#!/codepath-pre-work-simone)
+Link to project code: https://glitch.com/edit/#!/codepath-pre-work-simone <br>
 Link to live project: https://codepath-pre-work-simone.glitch.me
 
 
