@@ -79,7 +79,7 @@ The following **optional** features are implemented:
 
     <ul>	If I had more time to devote to this project, I would make it so that you can’t click any button before the start button. Currently, the user can press buttons 1-4 and the tones will play prior to starting the game. I would also eliminate the user’s ability to make their guesses before the sequence has finished playing. <br>
 
-	I wasted a lot of time trying to figure out the amount that I should decrease the clueHoldTime cluePauseTime variables in order to speed up the clue sequence each turn. In hindsight, I should have taken the time to find a way to play only the last clue sequence with 8 tones. This would have saved a lot of time and frustration and would save time if I wanted to add additional features. <br>
+	I wasted a lot of time trying to figure out the amount that I should decrease the clueHoldTime cluePauseTime variables in order to speed up the clue sequence each turn. In hindsight, I should have taken the time to find a way to play only the last clue sequence with 8 tones. This would have saved a lot of time and frustration and would save time if I wanted to add additional features. <br><br>
 
 	If I had a few more hours, I would make a little song play when the start button is clicked, before the first sequence is played. I would also try to make this project more accessible in order to maximize the amount of users who could play and find enjoyment from it. 
     </ul>
