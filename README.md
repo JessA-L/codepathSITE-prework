@@ -60,14 +60,20 @@ The following **optional** features are implemented:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-	<ul>The most difficulty I had was with creating the “guess” function. More specifically, I was easily able to write the program to where it would play the sequence and then accept a guess. If the guess matched the last tone of the sequence, it counted it as correct. The challenge I had was in writing the program so that it accepted more than one tone as the guess and to check whether each tone in the sequence of the guess was correct. 
+	<ul>The most difficulty I had was with creating the “guess” function. More specifically, I was easily able to write the program to where it would play the sequence and then accept a guess. If the guess matched the last tone of the sequence, it counted it as correct. The challenge I had was in writing the program so that it accepted more than one tone as the guess and to check whether each tone in the sequence of the guess was correct. <br>
     
 	I used a few different methods to alleviate this problem. First, I created a “cheat sheet” in a notebook, which helped me remember the variable names and what they were being used for. This helped me to realize that I had used the progress variable instead of guessCounter. Then, I updated the pseudocode in the program to make sure it matched the instructions and flowchart precisely. I noticed that I missed the part of the instructions where it said to use nested conditional statements (I had not nested my conditional statements). I find that taking the time to reorganize and plan outside of the IDE is helpful in finding a solution. It was also helpful to take a second look at the html file, as I had forgotten where guess() was being called. This is where using Javascript had the steepest learning curve for me in this pre-work, since my programming experience has been with Python and C. 
     </ul>
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+    - Why is there sometimes a delay when the sequence plays? Is this a problem with glitch? How is this issue eliminated?
+	- How closely related is Javascript to C?
+	* How does Javascript interact with the html and what instructions does it need in order to do so?
+	* How are other languages used in web development? For example, I know that Python is sometimes used, but how does it interact with the other languages and when would it be preferable to do so?
+How do API’s work and how are they used?
+How can a game like this be made more accessible? What are the best practices?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
